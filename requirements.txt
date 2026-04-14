@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+mediapipe
+numpy
+nltk
+speechrecognition
+streamlit
