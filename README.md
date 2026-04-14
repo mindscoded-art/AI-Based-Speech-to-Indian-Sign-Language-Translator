@@ -19,8 +19,7 @@ Indian Sign Language using Artificial Intelligence techniques.
 - Streamlit
 
 ## Project Structure
-backend/ - core logic  
-frontend/ - UI  
+backend/ - core logic   
 dataset/ - training & testing images  
 models/ - trained CNN model  
 evaluation/ - performance metrics  
